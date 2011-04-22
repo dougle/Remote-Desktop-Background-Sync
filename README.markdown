@@ -13,7 +13,9 @@ Usage
 ```OPTIONS:
    -h      Show this message
    -u      Url to get (mandatory)
-   -r      Rotate image (degrees clockwise)```
+   -r      Rotate image (degrees clockwise)
+```
+
 Personally i have my recent Tag Cloud from lastfm.dontdrinkandroot.net updating via cron every couple of hours, as i listen to last.fm all day every day it makes for an interesting background.
 
 (Don't forget to chmod +x it)  
