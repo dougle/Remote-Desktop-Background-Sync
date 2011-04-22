@@ -22,6 +22,7 @@ Personally i have my recent Tag Cloud from lastfm.dontdrinkandroot.net updating 
 	
 Every two hours it goes and grabs my latest image, if it is sucessfull it rotates it ninety degrees and then sets it as my desktop, easy.
 
+![Preview](/dougle/Remote-Desktop-Background-Sync/raw/master/Screenshot.png)
 
 Contributing
 ------------
