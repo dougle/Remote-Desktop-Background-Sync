@@ -5,7 +5,7 @@ A script for gnome users to sync their desktop background image with a remote ur
 
 Use it for:  
 * Any image with a URL that changes over time....  
-* Any of the images from the amazing lastfm.dontdrinkandroot.net (please donate to them, they do awesome work)  
+* Any of the images from the amazing [lastfm.dontdrinkandroot.net](http://lastfm.dontdrinkandroot.net)lastfm.dontdrinkandroot.net (please donate to them, they do awesome work)  
 * Yahoo weather images for your area etc  
 
 Usage
@@ -23,6 +23,8 @@ Personally i have my recent Tag Cloud from lastfm.dontdrinkandroot.net updating 
 Every two hours it goes and grabs my latest image, if it is sucessfull it rotates it ninety degrees and then sets it as my desktop, easy.
 
 ![Preview](/dougle/Remote-Desktop-Background-Sync/raw/master/Screenshot.png)
+
+Add me: [last.fm/user/Dougle_](http://www.last.fm/user/Dougle_)
 
 Contributing
 ------------
