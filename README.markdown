@@ -10,7 +10,7 @@ Use it for:
 
 Usage
 -----
-```OPTIONS:
+``` OPTIONS:
    -h      Show this message
    -u      Url to get (mandatory)
    -r      Rotate image (degrees clockwise)
