@@ -5,7 +5,7 @@ A script for gnome users to sync their desktop background image with a remote ur
 
 Use it for:  
 * Any image with a URL that changes over time....  
-* Any of the images from the amazing [lastfm.dontdrinkandroot.net](http://lastfm.dontdrinkandroot.net) (please donate to them, they do awesome work)  
+* Any of the images from the amazing [lastfm.dontdrinkandroot.net](http://lastfm.dontdrinkandroot.net) (please donate to shoxrocks, he does awesome work)  
 * Yahoo weather images for your area etc  
 
 Usage
